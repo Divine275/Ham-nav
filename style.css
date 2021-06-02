@@ -113,4 +113,5 @@ body{
 .nav-link:hover::after,
 .nav-link:hover::before{
     transform: scaleX(1);
+    
 }
